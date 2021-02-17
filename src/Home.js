@@ -1,5 +1,5 @@
 const Home = () => {
-	const title = "Welcome you weirdos"
+	const title = "Welcome you weirdos!"
 	return (
 		<div className="home">
 			<h1> {title} </h1>
